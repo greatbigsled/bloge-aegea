@@ -1,2 +1,2 @@
 # bloge-aegea
-Aegea blog engine
+Clone of Aegea blog engine(https://blogengine.me/) for personal use
